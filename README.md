@@ -27,6 +27,10 @@ The first file is `page_data_clean.csv`, which removes entries that begin with '
 
 I created tables as per the specifications in the assignment wiki.
 
+## Initial Reflection
+
+This has been an interesting assignment that combines many aspects of data analysis, including: data cleaning and data transformation. The initial task of preparing both datasets for merging serves as a constant reminder that the datasets we often work with are not in the ideal format we'd like, so we need to spend time preparing them before we run any analysis. I found it interesting that our definition of 'coverage' is a proportion of articles per country with that country's population. I write more about this in the additional questions section, but I believe this may introduce a bias towards higher coverage for countries with low population. Perhaps the articles/population size could be normalized first, so we have a better representation of coverage.
+
 ## Additional Questions
 
 **What biases did you expect to find in the data (before you started working with it), and why?**
